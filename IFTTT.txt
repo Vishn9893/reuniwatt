@@ -1,0 +1,3 @@
+Event: {{Value1}}<br>
+Datetime: {{OccurredAt}}<br>
+Info: {{Value2}}
