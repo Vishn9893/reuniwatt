@@ -1,0 +1,35 @@
+POST API api_url https://trustpv.goantares.uno/public/api/v3/ServicePortfolios/4c9e7c30-e8e8-40e9-9525-2692a1793c76/Properties
+
+Properties Key
+==============
+
+wind_speed_10m	5f0b26c4-03b3-40d2-8a98-2790cdda6345
+temperature_2m 888da8ee-df2b-4283-babe-272b6e7aeef9
+relative_humidity_2m 2d9d5466-f6e6-4cd3-809f-378d256a42b2
+dni 40666aca-81ff-407e-b44e-9a06c185af62
+ghi  b3f78769-74ff-45b4-8247-44ff52695e76
+
+Data to be inserted inside POST request
+
+
+        headers = {'Content-Type' : 'application/json; charset=utf-8'}
+        anomaly_datetim_obj = datetime.strptime(anomaly['time'], '%Y-%m-%d %H:%M:%S')
+        body_request = {
+						"Value": "Insert your value here", (Insert your different output values here)
+						"TypeId": "Use the property id given above", (Create a dict.You need to loop inside dict for the different key)
+						"RelatedEntityId": "Id of the service created for PvCase", (i.e. "4c9e7c30-e8e8-40e9-9525-2692a1793c76")
+						"RelatedEntityType": "Number of service defined in Antares" (i.e. "1")
+}
+
+GET request for getting the data (For every hour)
+Mapping for property inside Antares
+
+wind speed - wind_speed_10m
+wind bearing - wind.bearing (data not available yet)
+average temperature - temperature_2m
+diffuse normal irradiance - dni
+Global horizontal irradiance- ghi
+
+GET request
+https://trustpv.goantares.uno/public/api/v3/ServicePortfolios/fd75561b-9821-47e0-974d-c55cdb1ff4b8/Properties?%24filter=TypeId%20in%20%285f0b26c4-03b3-40d2-8a98-2790cdda6345%20%2C%20888da8ee-df2b-4283-babe-272b6e7aeef9%20%2C%2040666aca-81ff-407e-b44e-9a06c185af62%20%2C%20b3f78769-74ff-45b4-8247-44ff52695e76%29&%24select=CreatedDate%2C%20Value%2C%20TypeName&%24orderby=TypeId%20asc%2C%20CreatedDate%20Desc
+(Need to validate the CreatedDate)

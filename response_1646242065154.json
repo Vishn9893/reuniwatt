@@ -1,0 +1,502 @@
+[
+  {
+    "CreatedDate": "2022-02-28T01:11:43.042854+01:00",
+    "Value": "10.6994",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:42.9225715+01:00",
+    "Value": "10.716",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:42.8120517+01:00",
+    "Value": "10.7325",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:42.6753208+01:00",
+    "Value": "10.7491",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:42.55399+01:00",
+    "Value": "10.7657",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:42.4303055+01:00",
+    "Value": "10.7823",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:42.3188218+01:00",
+    "Value": "10.7989",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:42.2027984+01:00",
+    "Value": "10.8155",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:42.0851293+01:00",
+    "Value": "10.8321",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:41.968477+01:00",
+    "Value": "10.8487",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:41.8460736+01:00",
+    "Value": "10.8653",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:41.7272504+01:00",
+    "Value": "10.8818",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:41.6088097+01:00",
+    "Value": "10.8984",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:41.50183+01:00",
+    "Value": "10.97",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:41.3794187+01:00",
+    "Value": "11.0416",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:41.2539142+01:00",
+    "Value": "11.1132",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:41.1278592+01:00",
+    "Value": "11.1848",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:41.0083926+01:00",
+    "Value": "11.2564",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:40.889506+01:00",
+    "Value": "11.328",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:40.7751219+01:00",
+    "Value": "11.3996",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:40.6584107+01:00",
+    "Value": "11.4711",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:40.5400023+01:00",
+    "Value": "11.5427",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:40.4108784+01:00",
+    "Value": "11.6143",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:40.2882934+01:00",
+    "Value": "11.6859",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:40.1730085+01:00",
+    "Value": "11.7575",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:40.0497545+01:00",
+    "Value": "11.7769",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:39.9330196+01:00",
+    "Value": "11.7963",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:39.8125276+01:00",
+    "Value": "11.8157",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:39.6987509+01:00",
+    "Value": "11.8351",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:39.3849201+01:00",
+    "Value": "11.8545",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:39.2406263+01:00",
+    "Value": "11.8738",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:39.1206988+01:00",
+    "Value": "11.8932",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:38.9990488+01:00",
+    "Value": "11.9126",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:38.877829+01:00",
+    "Value": "11.932",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:38.7512146+01:00",
+    "Value": "11.9514",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:38.6253275+01:00",
+    "Value": "11.9708",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:38.5057621+01:00",
+    "Value": "11.9902",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:38.3927939+01:00",
+    "Value": "12.0497",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:38.2776807+01:00",
+    "Value": "12.1092",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:38.1628776+01:00",
+    "Value": "12.1687",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:38.0494905+01:00",
+    "Value": "12.2282",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:37.9379219+01:00",
+    "Value": "12.2878",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:37.8294392+01:00",
+    "Value": "12.3473",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:37.7187211+01:00",
+    "Value": "12.4068",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:37.6005427+01:00",
+    "Value": "12.4663",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:37.4829665+01:00",
+    "Value": "12.5258",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:37.3656558+01:00",
+    "Value": "12.5853",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:37.2566696+01:00",
+    "Value": "12.6448",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:37.1185686+01:00",
+    "Value": "12.7043",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:37.0041835+01:00",
+    "Value": "12.8918",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:36.8945054+01:00",
+    "Value": "13.0793",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:36.7792774+01:00",
+    "Value": "13.2667",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:36.6693072+01:00",
+    "Value": "13.4542",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:36.5613306+01:00",
+    "Value": "13.6416",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:36.4409169+01:00",
+    "Value": "13.8291",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:36.3231448+01:00",
+    "Value": "14.0166",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:36.2070187+01:00",
+    "Value": "14.204",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:36.0900117+01:00",
+    "Value": "14.3915",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:35.9700595+01:00",
+    "Value": "14.579",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:35.8514574+01:00",
+    "Value": "14.7664",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:35.7363917+01:00",
+    "Value": "14.9539",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:35.6220981+01:00",
+    "Value": "15.1139",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:35.4792318+01:00",
+    "Value": "15.2739",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:35.3760517+01:00",
+    "Value": "15.434",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:35.2550007+01:00",
+    "Value": "15.594",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:35.1274263+01:00",
+    "Value": "15.754",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:35.0102476+01:00",
+    "Value": "15.9141",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:34.8874948+01:00",
+    "Value": "16.0741",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:34.7621428+01:00",
+    "Value": "16.2341",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:34.6474391+01:00",
+    "Value": "16.3941",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:34.5292093+01:00",
+    "Value": "16.5542",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:34.4032388+01:00",
+    "Value": "16.7142",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:34.2704194+01:00",
+    "Value": "16.8742",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:34.144063+01:00",
+    "Value": "17.1643",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:33.9984162+01:00",
+    "Value": "17.4544",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:33.8765017+01:00",
+    "Value": "17.7445",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:33.7394042+01:00",
+    "Value": "18.0345",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:33.6182487+01:00",
+    "Value": "18.3246",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:33.5062183+01:00",
+    "Value": "18.6147",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:33.391155+01:00",
+    "Value": "18.9048",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:33.2746057+01:00",
+    "Value": "19.1949",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:33.1585052+01:00",
+    "Value": "19.4849",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:33.0468205+01:00",
+    "Value": "19.775",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:32.9299764+01:00",
+    "Value": "20.0651",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:32.8143372+01:00",
+    "Value": "20.3552",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:32.6989739+01:00",
+    "Value": "20.4058",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:32.5827358+01:00",
+    "Value": "20.4565",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:32.4313902+01:00",
+    "Value": "20.5071",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:32.2854317+01:00",
+    "Value": "20.5578",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:32.166741+01:00",
+    "Value": "20.6084",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:32.0542664+01:00",
+    "Value": "20.6591",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:31.9401534+01:00",
+    "Value": "20.7097",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:31.8077745+01:00",
+    "Value": "20.7603",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:31.6888239+01:00",
+    "Value": "20.811",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:31.563396+01:00",
+    "Value": "20.8616",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:31.4459173+01:00",
+    "Value": "20.9123",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:31.3394667+01:00",
+    "Value": "20.9629",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:31.2288956+01:00",
+    "Value": "20.9639",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:31.1095606+01:00",
+    "Value": "20.9648",
+    "TypeName": "Temperature at 2 meters "
+  },
+  {
+    "CreatedDate": "2022-02-28T01:11:30.9860648+01:00",
+    "Value": "20.9657",
+    "TypeName": "Temperature at 2 meters "
+  }
+]
