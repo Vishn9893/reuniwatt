@@ -12,6 +12,7 @@ properties_dict = {
         'dni':'40666aca-81ff-407e-b44e-9a06c185af62',
         'ghi':' b3f78769-74ff-45b4-8247-44ff52695e76',
         'wind_speed_10m':'5f0b26c4-03b3-40d2-8a98-2790cdda6345',
+        'wind_direction_10m':'dd07af29-37ae-4817-8328-ac9a87d7d01d',
         'dhi':'43b3af32-59ca-4ee7-9f1f-62fd69b10ef6',
         'gti_trk':'6ff34c5d-68d3-4a0f-b825-1eda5db8bcec',
         'temperature_2m':'888da8ee-df2b-4283-babe-272b6e7aeef9',
@@ -47,6 +48,7 @@ def main():
                 "TypeId": property_id,
                 "RelatedEntityId": property_id,
                 "RelatedEntityType": 1,
+                #"CreatedDate": values[1][0]
             }
             body_request = json.dumps(body_request)
             res = requests.post(url=antares_url, headers=headers, data=body_request, auth=(ANTARES_API_KEY, ANTARES_API_SECRET))
