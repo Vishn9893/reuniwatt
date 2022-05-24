@@ -48,7 +48,8 @@ def main():
                 "TypeId": property_id,
                 "RelatedEntityId": property_id,
                 "RelatedEntityType": 1,
-                #"CreatedDate": values[1][0]
+                "CreatedDate": key,
+                "ForceDates": True
             }
             body_request = json.dumps(body_request)
             res = requests.post(url=antares_url, headers=headers, data=body_request, auth=(ANTARES_API_KEY, ANTARES_API_SECRET))
